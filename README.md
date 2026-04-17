@@ -23,8 +23,11 @@ Event ID 4625 – Failed logon attempt
 Event ID 4625 is generated when a user fails to log into a Windows system. This can happen due to:
 
 -Incorrect password
+
 -Invalid username
+
 -Account restrictions
+
 -Brute-force attacks
 
 Monitoring this event is critical for identifying unauthorized access attempts.
